@@ -55,7 +55,7 @@
 #banner {
     height: 359px;
     width: 950px;
-    margin: 15px 5px 15px auto;
+    margin: 15px 5px 15px;
 }
 
 
@@ -68,7 +68,6 @@ hr {
 #col1 {
     width: 460px;
     margin: 100px 5px 10px 5px;
-    border-color: black;
 }
 
 #col2 {
