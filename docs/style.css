@@ -85,7 +85,7 @@ hr {
     width: 574px;
     height: 344px;
     padding: 5px;
-    margin: 40px 5px 200px;
+    margin: 40px 5px 10px;
 }
 
 #new {
@@ -94,9 +94,15 @@ hr {
 
 
 #circle {
-    background: #f00;
+    background: gray;
     width: 300px;
     height: 300px;
     border-radius: 50%;
     margin-top: 35px;
+    margin-right: 10px;
+
+}
+
+.circleText{
+    background-color: blanchedalmond;
 }
