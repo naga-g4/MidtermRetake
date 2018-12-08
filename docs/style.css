@@ -50,3 +50,17 @@
 .inLine {
     display: inline;
 }
+
+
+#banner {
+    height: 359px;
+    width: 950px;
+    margin: 15px 5px 15px;
+}
+
+
+hr {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
