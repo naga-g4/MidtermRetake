@@ -1,0 +1,52 @@
+#wrapper {
+    width: 960px;
+    font-family: Helvetica, serif;
+    align-content: center;
+    height: auto;
+}
+
+.marginCenter {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#head {
+    height: 135px;
+    line-height: 135px;
+}
+
+#logo {
+    height: 135px;
+    margin: 5px;
+}
+
+.smallBox {
+    width: 329px;
+}
+
+.bigBox {
+    width: 600px;
+}
+
+.floatLeft {
+    float: left;
+}
+
+
+.floatRight {
+    float: right;
+}
+
+.textRight {
+    text-align: right;
+}
+
+.clrBoth {
+    margin: 0;
+    padding: 0;
+}
+
+.inLine {
+    display: inline;
+}
