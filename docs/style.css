@@ -80,3 +80,10 @@ hr {
     padding-left: 5px;
     padding-right: 5px;
 }
+
+#textBox {
+    width: 574px;
+    height: 344px;
+    padding: 5px;
+    margin: 40px 5px 200px;
+}
